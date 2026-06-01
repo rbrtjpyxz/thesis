@@ -1,2 +1,2 @@
-mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
-2.3169492749673237,0.29177579126124065,0.10293363734978933,0.1439187334437487,0.040563500218233337,0.03652979796103863,0.1120401822491769,0.17124823889227375,28,19164,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\partB_blockB_magstd,fedper
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode,fedper_adapt_ratio,mean_num_adapt_examples,mean_num_eval_examples
+2.3270458079281697,0.2423710345785475,0.15563374987504194,0.2073736534539645,0.04770563135864636,0.05165292393936182,0.15602258729331053,0.19727805380079438,28,16588,precomputed\partB_blockB_magstd,fedper,0.2,148.10714285714286,592.4285714285714
