@@ -8,7 +8,7 @@ from datetime import datetime
 
 PYPROJECT = "pyproject.toml"
 OUTPUT_DIR = "outputs"
-REPS = 1
+REPS = 5
 LEARNING_RATE = 0.0001
 
 PRECOMPUTED_PARTA_BLOCKA = "precomputed/partA_blockA_magstd"
