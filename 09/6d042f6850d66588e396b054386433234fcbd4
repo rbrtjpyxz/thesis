@@ -1,0 +1,16 @@
+run_experiments_FL.py
+  h_802c6afb9b936e 11
+README.md
+  h_802c6afb9b936e 1-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "096d042f6850d66588e396b054386433234fcbd4",
+  "prompts": {},
+  "humans": {
+    "h_802c6afb9b936e": {
+      "author": "rbrtjpyxz <mn.barba@stud.uis.no>"
+    }
+  }
+}
