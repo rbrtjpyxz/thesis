@@ -34,7 +34,7 @@ BLOCK_LABEL = {
 def make_experiments():
     exps = []
     for precomputed_dir in [
-        #PRECOMPUTED_PARTA_BLOCKA,
+        PRECOMPUTED_PARTA_BLOCKA,
         PRECOMPUTED_PARTA_BLOCKB,
         PRECOMPUTED_PARTB_BLOCKA,
         PRECOMPUTED_PARTB_BLOCKB,
