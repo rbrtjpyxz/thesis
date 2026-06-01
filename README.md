@@ -2,7 +2,7 @@
 
 This repository contains the implementation for a federated learning (FL) simulation for Human Activity Recognition (HAR) using accelerometer data from multiple real-world datasets. The system is built on the [Flower (flwr)](https://flower.ai) framework and supports FedAvg, FedPer, and Experience Replay strategies across CNN and MLP model architectures.
 
-> **Thesis:** *Federated Learning for Human Activity Recognition Across Heterogeneous Datasets: Evaluating FedAvg, FedPer, and Experience Replay under Realistic Conditions*
+> **Thesis:** *Federated Learning for Human Activity Recognition Across Heterogeneous Datasets: Evaluating FedAvg, FedPer, and Experience Replay under Sequential, Cross-Dataset Conditions*
 
 ---
 
