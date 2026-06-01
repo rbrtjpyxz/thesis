@@ -102,7 +102,7 @@ python -m harflwr.preprocess_windows \
 | `--label-mapping` | `intersection` | `intersection` (shared activities only) or `union` (all activities) |
 | `--inter-subject-test-ratio` | `None` | Fraction of subjects assigned to test role per dataset |
 | `--datasets-in-g` | `HAPT` | Comma-separated dataset names whose accelerometer is in g-units |
-| `--datasets-gravity-removed` | `` | Datasets where gravity was already removed prior to this script |
+| `--datasets-gravity-removed` | `` | Datasets where gravity was already removed prior to this script (no default value)|
 
 **Channel configurations** (`--channel-config`):
 
