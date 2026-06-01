@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,channel_config
+1.2340800110048484,0.016727615118139947,0.4318060274746189,0.023157074020254333,0.3544497854986493,0.034530013984807775,0.34541163561645405,0.02496759806077306,6,875,precomputed/HAPT_magstd,mag_std

@@ -1,0 +1,45 @@
+{
+  "mode": "centralized",
+  "precomputed_dir": "precomputed/HHAR_magstd",
+  "channel_config": "mag_std",
+  "model_name": "cnn",
+  "batch_size": 32,
+  "max_epochs": 200,
+  "patience": 20,
+  "learning_rate": 0.0001,
+  "seed": 42,
+  "num_channels": 2,
+  "num_classes": 6,
+  "window_size": 100,
+  "sensor_cols": [
+    "acc_mag",
+    "acc_mag_std"
+  ],
+  "label_map": {
+    "ascending stairs": 0,
+    "cycling": 1,
+    "descending stairs": 2,
+    "sitting": 3,
+    "standing": 4,
+    "walking": 5
+  },
+  "trainable_parameters": 167174,
+  "estimated_model_size_bytes": 668696,
+  "num_train_clients": 7,
+  "num_test_clients": 2,
+  "train_client_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7
+  ],
+  "test_client_ids": [
+    5,
+    8
+  ],
+  "best_epoch": 37,
+  "best_val_macro_f1": 0.8216037052874886
+}

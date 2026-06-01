@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+2.2253952676966944,0.15514486844713024,0.16054022618846717,0.08146383756438061,0.09091129577338482,0.06190456138398137,0.11054152321085987,0.06228039439534697,3,4896,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\RealWorld_magstd,fedper

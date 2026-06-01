@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,channel_config
+0.7113525656982304,0.909336467075527,0.7587193611356966,0.27945111224118224,0.5735997190309382,0.28798646050653876,0.7258766143033137,0.31183228793623025,15,8298,precomputed/WISDM_Actitracker_magstd,mag_std

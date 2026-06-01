@@ -1,0 +1,1046 @@
+client_id,y_true,y_pred,y_true_label,y_pred_label
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,4,5,standing,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,3,5,sitting,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,5,5,walking,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,0,5,ascending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,2,5,descending stairs,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+5,1,5,cycling,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,4,5,standing,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,3,5,sitting,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,5,5,walking,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,2,5,descending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,0,5,ascending stairs,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking
+8,1,5,cycling,walking

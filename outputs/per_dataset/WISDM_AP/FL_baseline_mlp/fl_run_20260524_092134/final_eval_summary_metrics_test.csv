@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+1.8024272694357797,0.01378399568875742,0.10288173793815128,0.057014979169343484,0.05673591221042313,0.027037412296640858,0.038768648929067936,0.021508796935473702,7,3793,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\WISDM_AP_magstd,none

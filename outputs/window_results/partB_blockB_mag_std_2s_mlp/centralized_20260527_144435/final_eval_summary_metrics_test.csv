@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,channel_config
+0.6684672190742281,0.3485826236163088,0.7318977023179537,0.17875831524815403,0.4284828652855563,0.18287965793878652,0.7344159901471347,0.18155270876524907,28,50020,precomputed/partB_blockB_magstd_2s,mag_std

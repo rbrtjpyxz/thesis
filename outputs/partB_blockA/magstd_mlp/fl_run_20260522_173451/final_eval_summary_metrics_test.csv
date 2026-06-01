@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+1.0493554925641462,0.12672299837704823,0.3803495597417689,0.19744096797834954,0.2510420071835379,0.09265319076697302,0.3515986242349732,0.18679200479515595,28,13880,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\partB_blockA_magstd,none

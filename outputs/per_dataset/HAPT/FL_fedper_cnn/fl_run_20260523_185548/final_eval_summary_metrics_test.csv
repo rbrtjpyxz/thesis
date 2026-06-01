@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+1.7908868453753914,0.011216305816896147,0.19415544665044313,0.03571716635032709,0.07098757708792698,0.04425931570383242,0.07026777325977233,0.02782225461906113,6,875,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\HAPT_magstd,fedper

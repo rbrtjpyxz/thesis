@@ -1,0 +1,67 @@
+{
+  "mode": "federated",
+  "split_mode": "inter_subject",
+  "precomputed_dir": "C:\\Users\\mikha\\Documents\\DATBAC\\Simulations\\har-flower\\precomputed\\UT_SAD_magstd",
+  "window_seconds": 5.0,
+  "overlap_ratio": 0.5,
+  "batch_size": 32,
+  "num_server_rounds": 14,
+  "local_epochs": 1,
+  "learning_rate": 0.0001,
+  "fraction_train": 1.0,
+  "fraction_evaluate": 1.0,
+  "channel_config": "mag_std",
+  "chunk_size": 32,
+  "model_name": "mlp",
+  "data_serving_mode": "sequential_chunks",
+  "num_clients_total": 10,
+  "num_train_clients": 8,
+  "num_test_clients": 2,
+  "train_client_ids": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9
+  ],
+  "test_client_ids": [
+    1,
+    8
+  ],
+  "num_channels": 2,
+  "num_classes": 7,
+  "sensor_cols": [
+    "acc_mag",
+    "acc_mag_std"
+  ],
+  "label_map": {
+    "ascending stairs": 0,
+    "cycling": 1,
+    "descending stairs": 2,
+    "jogging": 3,
+    "sitting": 4,
+    "standing": 5,
+    "walking": 6
+  },
+  "client_total_chunks": {
+    "0": 13,
+    "2": 13,
+    "3": 13,
+    "4": 14,
+    "5": 12,
+    "6": 13,
+    "7": 11,
+    "9": 13
+  },
+  "use_replay_buffer": false,
+  "replay_buffer_capacity": null,
+  "replay_sample_size": null,
+  "aggregation_strategy": "FedAvg",
+  "fedper_adapt_epochs": 1,
+  "trainable_parameters": 93831,
+  "estimated_model_size_bytes": 375324,
+  "personalization_mode": "none"
+}

@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+2.394772097978297,0.0035393862802572135,0.03702149986335708,0.0297054329258657,0.009966273236576884,0.008619724307371956,0.004132835107309837,0.004119948360137399,16,2792,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\KU_HAR_magstd,none

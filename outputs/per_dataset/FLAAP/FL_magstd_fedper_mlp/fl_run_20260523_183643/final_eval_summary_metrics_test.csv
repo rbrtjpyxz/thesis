@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+2.076261200531771,0.07820000310607632,0.26108940666749886,0.13873157241940876,0.06869048828761423,0.0222037801099598,0.18344993296828438,0.12317765877067942,2,2126,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\FLAAP_magstd,fedper

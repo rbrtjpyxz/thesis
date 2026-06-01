@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+2.4660844384932448,1.6053286087613352,0.20322212585349628,0.185366968705655,0.11198053702617261,0.09898504072347035,0.15477692752237895,0.17906613578558628,15,8298,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\WISDM_Actitracker_magstd,fedper

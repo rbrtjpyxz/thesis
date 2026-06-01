@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,channel_config
+0.9924030122190615,0.9790647920724692,0.696380069438324,0.22895815365730915,0.6041846364473402,0.1970886232955273,0.7181634070454247,0.18184145609805138,7,3793,precomputed/WISDM_AP_magstd,mag_std

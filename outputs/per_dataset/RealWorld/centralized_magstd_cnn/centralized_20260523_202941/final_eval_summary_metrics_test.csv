@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,channel_config
+1.1820365369675776,0.55266685745904,0.6012964687902569,0.10755523042753044,0.593899395266301,0.11796597196295851,0.5572698843969192,0.1118773000117251,3,4896,precomputed/RealWorld_magstd,mag_std

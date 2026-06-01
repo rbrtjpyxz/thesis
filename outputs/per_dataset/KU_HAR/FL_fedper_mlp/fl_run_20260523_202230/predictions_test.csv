@@ -1,0 +1,2793 @@
+client_id,y_true,y_pred,y_true_label,y_pred_label
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,3,4,lying down,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,9,4,standing,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+8,8,4,sitting,picking up
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,2,5,jumping,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,3,5,lying down,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,4,5,picking up,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,5,5,push-ups,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,7,5,sit-ups,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,9,5,standing,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,8,5,sitting,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+12,10,5,walking,push-ups
+13,2,8,jumping,sitting
+13,2,5,jumping,push-ups
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,5,jumping,push-ups
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,2,8,jumping,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,3,8,lying down,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,4,8,picking up,sitting
+13,5,8,push-ups,sitting
+13,5,8,push-ups,sitting
+13,5,8,push-ups,sitting
+13,5,8,push-ups,sitting
+13,5,8,push-ups,sitting
+13,5,8,push-ups,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,7,8,sit-ups,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,9,8,standing,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+13,8,8,sitting,sitting
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,2,4,jumping,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,3,4,lying down,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,4,4,picking up,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,7,4,sit-ups,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,9,4,standing,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+14,8,4,sitting,picking up
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,2,0,jumping,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,3,0,lying down,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,4,0,picking up,ascending stairs
+19,5,0,push-ups,ascending stairs
+19,5,0,push-ups,ascending stairs
+19,5,0,push-ups,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,7,0,sit-ups,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,9,0,standing,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+19,8,0,sitting,ascending stairs
+22,2,5,jumping,push-ups
+22,2,2,jumping,jumping
+22,2,5,jumping,push-ups
+22,2,2,jumping,jumping
+22,2,2,jumping,jumping
+22,2,5,jumping,push-ups
+22,2,5,jumping,push-ups
+22,2,2,jumping,jumping
+22,2,2,jumping,jumping
+22,2,2,jumping,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,3,2,lying down,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,4,2,picking up,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,5,descending stairs,push-ups
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,5,descending stairs,push-ups
+22,1,5,descending stairs,push-ups
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,5,descending stairs,push-ups
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,1,2,descending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,5,ascending stairs,push-ups
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,0,2,ascending stairs,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,9,2,standing,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,8,2,sitting,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+22,10,2,walking,jumping
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,4,jumping,picking up
+35,2,2,jumping,jumping
+35,2,4,jumping,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,3,4,lying down,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,4,4,picking up,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,7,4,sit-ups,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,1,4,descending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,0,4,ascending stairs,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,9,4,standing,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,8,4,sitting,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+35,10,4,walking,picking up
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,2,10,jumping,walking
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,3,3,lying down,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,3,picking up,lying down
+36,4,10,picking up,walking
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,7,3,sit-ups,lying down
+36,1,10,descending stairs,walking
+36,1,10,descending stairs,walking
+36,1,10,descending stairs,walking
+36,1,10,descending stairs,walking
+36,1,10,descending stairs,walking
+36,1,10,descending stairs,walking
+36,1,3,descending stairs,lying down
+36,1,10,descending stairs,walking
+36,1,10,descending stairs,walking
+36,0,10,ascending stairs,walking
+36,0,10,ascending stairs,walking
+36,0,3,ascending stairs,lying down
+36,0,10,ascending stairs,walking
+36,0,3,ascending stairs,lying down
+36,0,10,ascending stairs,walking
+36,0,10,ascending stairs,walking
+36,0,10,ascending stairs,walking
+36,0,10,ascending stairs,walking
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,9,3,standing,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,8,3,sitting,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+36,10,3,walking,lying down
+41,2,3,jumping,lying down
+41,2,3,jumping,lying down
+41,2,3,jumping,lying down
+41,2,3,jumping,lying down
+41,2,3,jumping,lying down
+41,2,3,jumping,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,3,3,lying down,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,4,3,picking up,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,1,3,descending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,0,3,ascending stairs,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,9,3,standing,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,8,3,sitting,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+41,10,3,walking,lying down
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,3,10,lying down,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,4,10,picking up,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,9,10,standing,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,8,10,sitting,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+47,10,10,walking,walking
+53,2,9,jumping,standing
+53,2,9,jumping,standing
+53,2,9,jumping,standing
+53,2,9,jumping,standing
+53,2,9,jumping,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,3,9,lying down,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,4,5,picking up,push-ups
+53,4,9,picking up,standing
+53,4,9,picking up,standing
+53,5,9,push-ups,standing
+53,5,9,push-ups,standing
+53,5,9,push-ups,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,7,9,sit-ups,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,9,9,standing,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+53,8,9,sitting,standing
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,3,3,lying down,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,4,3,picking up,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,8,3,sitting,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+64,9,3,standing,lying down
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,3,5,lying down,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,4,5,picking up,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,9,5,standing,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,8,5,sitting,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+65,10,5,walking,push-ups
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,2,8,jumping,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,3,8,lying down,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,4,8,picking up,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,7,8,sit-ups,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,9,8,standing,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+66,8,8,sitting,sitting
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,2,4,jumping,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,3,4,lying down,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,4,4,picking up,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,7,4,sit-ups,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,9,4,standing,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+67,8,4,sitting,picking up
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing
+77,10,9,walking,standing

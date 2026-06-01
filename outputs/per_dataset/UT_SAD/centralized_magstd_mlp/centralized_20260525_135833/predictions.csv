@@ -1,0 +1,158 @@
+y_true,y_pred,y_true_label,y_pred_label
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,2,ascending stairs,descending stairs
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,6,ascending stairs,walking
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+1,2,cycling,descending stairs
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,0,ascending stairs,ascending stairs
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,2,ascending stairs,descending stairs
+0,0,ascending stairs,ascending stairs
+0,6,ascending stairs,walking
+0,2,ascending stairs,descending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,2,ascending stairs,descending stairs
+0,0,ascending stairs,ascending stairs
+0,2,ascending stairs,descending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+0,2,ascending stairs,descending stairs
+0,2,ascending stairs,descending stairs
+0,0,ascending stairs,ascending stairs
+0,0,ascending stairs,ascending stairs
+1,1,cycling,cycling
+2,2,descending stairs,descending stairs
+3,3,jogging,jogging
+4,5,sitting,standing
+5,5,standing,standing
+6,6,walking,walking

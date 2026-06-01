@@ -1,0 +1,3 @@
+client_id,num_test_examples,loss,accuracy,macro_f1,weighted_f1,personalization_mode,fedper_adapt_epochs
+0,1083,2.105803662940296,0.0,0.0,0.0,none,0
+5,1043,2.106899232329481,0.04793863854266539,0.019407873662630533,0.011348334020978996,none,0

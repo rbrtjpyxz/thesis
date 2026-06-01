@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,channel_config
+1.6838255231378851,0.5207682050848887,0.35152035865006914,0.1296733961382171,0.18192007999213655,0.0015318939073613543,0.313864857207197,0.14686585351620365,2,2126,precomputed/FLAAP_magstd,mag_std

@@ -1,0 +1,46 @@
+{
+  "mode": "centralized",
+  "precomputed_dir": "precomputed/FLAAP_magstd",
+  "channel_config": "mag_std",
+  "model_name": "mlp",
+  "batch_size": 32,
+  "max_epochs": 200,
+  "patience": 20,
+  "learning_rate": 0.0001,
+  "seed": 42,
+  "num_channels": 2,
+  "num_classes": 8,
+  "window_size": 100,
+  "sensor_cols": [
+    "acc_mag",
+    "acc_mag_std"
+  ],
+  "label_map": {
+    "ascending stairs": 0,
+    "descending stairs": 1,
+    "jogging": 2,
+    "lying down": 3,
+    "sit-ups": 4,
+    "sitting": 5,
+    "standing": 6,
+    "walking": 7
+  },
+  "trainable_parameters": 93896,
+  "estimated_model_size_bytes": 375584,
+  "num_train_clients": 6,
+  "num_test_clients": 2,
+  "train_client_ids": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7
+  ],
+  "test_client_ids": [
+    0,
+    5
+  ],
+  "best_epoch": 48,
+  "best_val_macro_f1": 0.1922219887158092
+}

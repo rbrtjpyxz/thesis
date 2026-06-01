@@ -1,0 +1,103 @@
+{
+  "data_dir": "C:\\Users\\mikha\\Documents\\DATBAC\\Simulations\\har-flower\\data\\HARTH",
+  "output_dir": "C:\\Users\\mikha\\Documents\\DATBAC\\Simulations\\har-flower\\precomputed\\HARTH_magstd",
+  "window_seconds": 5.0,
+  "overlap_ratio": 0.5,
+  "val_ratio": 0.2,
+  "split_seed": 42,
+  "label_mapping": "union",
+  "channel_config": "mag_std",
+  "shuffle_windows": false,
+  "inter_subject_test_ratio": 0.2,
+  "inter_subject_split_seed": 42,
+  "train_client_ids": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20
+  ],
+  "test_client_ids": [
+    1,
+    8,
+    13,
+    18
+  ],
+  "num_clients_total": 21,
+  "num_clients_kept": 21,
+  "num_clients_skipped_probe": 0,
+  "skipped_probe_files": [],
+  "label_map": {
+    "ascending stairs": 0,
+    "cycling": 1,
+    "descending stairs": 2,
+    "lying down": 3,
+    "running": 4,
+    "sitting": 5,
+    "standing": 6,
+    "walking": 7
+  },
+  "sensor_cols": [
+    "acc_mag",
+    "acc_mag_std"
+  ],
+  "window_label_policy": "pure_only",
+  "windowing_policy": "time_based_per_file_sampling_rate",
+  "kept_labels": [
+    "ascending stairs",
+    "cycling",
+    "descending stairs",
+    "lying down",
+    "running",
+    "sitting",
+    "standing",
+    "walking"
+  ],
+  "dropped_labels": [],
+  "split_policy": "inter_subject_train_clients_segment_level_val_test_clients_all_windows",
+  "global_norm_min": [
+    0.0002174639084842056,
+    0.0
+  ],
+  "global_norm_max": [
+    122.58322143554688,
+    32.343597412109375
+  ],
+  "normalization": {
+    "kind": "channel_wise_minmax",
+    "fit_on": "all_train_role_clients_train_splits_combined",
+    "target_range": [
+      -1.0,
+      1.0
+    ],
+    "constant_channel_output": 0.0
+  },
+  "total_windows": 39591,
+  "total_train_windows": 25225,
+  "total_val_windows": 5926,
+  "total_test_windows": 8423,
+  "datasets_in_g": [
+    "HARTH"
+  ],
+  "datasets_gravity_removed": [],
+  "acceleration_standardization": {
+    "unit_after": "m/s^2",
+    "signal_after": "body_acceleration",
+    "g_to_ms2_factor": 9.80665,
+    "gravity_removal_method": "highpass_butterworth",
+    "gravity_estimation_method": "lowpass_butterworth",
+    "gravity_cutoff_hz": 0.3
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "mode": "centralized",
+  "precomputed_dir": "precomputed/UT_SAD_magstd",
+  "channel_config": "mag_std",
+  "model_name": "mlp",
+  "batch_size": 32,
+  "max_epochs": 200,
+  "patience": 20,
+  "learning_rate": 0.0001,
+  "seed": 42,
+  "num_channels": 2,
+  "num_classes": 7,
+  "window_size": 100,
+  "sensor_cols": [
+    "acc_mag",
+    "acc_mag_std"
+  ],
+  "label_map": {
+    "ascending stairs": 0,
+    "cycling": 1,
+    "descending stairs": 2,
+    "jogging": 3,
+    "sitting": 4,
+    "standing": 5,
+    "walking": 6
+  },
+  "trainable_parameters": 93831,
+  "estimated_model_size_bytes": 375324,
+  "num_train_clients": 8,
+  "num_test_clients": 2,
+  "train_client_ids": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9
+  ],
+  "test_client_ids": [
+    1,
+    8
+  ],
+  "best_epoch": 64,
+  "best_val_macro_f1": 0.6739115290839429
+}

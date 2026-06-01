@@ -1,0 +1,2 @@
+round,train_loss,val_loss,val_accuracy,val_macro_f1,val_weighted_f1,num_train_examples,num_val_examples,fit_duration_sec,local_eval_duration_sec,eval_duration_sec
+25,0.0,1.7486912822428737,0.2746385609068941,0.09766563873210196,0.18982304965386962,4.0,28.0,0.0012750999958370812,0.028372199994919356,0.013907274999707755

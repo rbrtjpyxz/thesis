@@ -1,0 +1,2 @@
+mean_loss,std_loss,mean_accuracy,std_accuracy,mean_macro_f1,std_macro_f1,mean_weighted_f1,std_weighted_f1,num_clients,num_predictions,evaluation_data_dir,personalization_mode
+1.6497789889520376,0.1478161453657538,0.20003428283645022,0.18716479755732343,0.11581419262363922,0.11385995743189715,0.13027607622100207,0.1529560434579217,29,8512,C:\Users\mikha\Documents\DATBAC\Simulations\har-flower\precomputed\partA_blockA_magstd,fedper

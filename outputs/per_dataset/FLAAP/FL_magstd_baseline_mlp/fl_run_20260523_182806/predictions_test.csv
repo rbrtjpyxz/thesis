@@ -1,0 +1,2127 @@
+client_id,y_true,y_pred,y_true_label,y_pred_label
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,7,1,walking,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,6,jogging,standing
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,2,1,jogging,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,6,1,standing,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+0,5,1,sitting,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,6,1,standing,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,6,sitting,standing
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,6,sitting,standing
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,6,sitting,standing
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,1,sitting,descending stairs
+5,5,6,sitting,standing
+5,5,6,sitting,standing
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,3,jogging,lying down
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,2,jogging,jogging
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,2,jogging,jogging
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,2,jogging,jogging
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,3,jogging,lying down
+5,2,3,jogging,lying down
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,2,jogging,jogging
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,6,jogging,standing
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,2,1,jogging,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,3,1,lying down,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,7,1,walking,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,4,1,sit-ups,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,0,1,ascending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
+5,1,1,descending stairs,descending stairs
